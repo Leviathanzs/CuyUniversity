@@ -13,14 +13,13 @@
 
 .ul-navbar {
     display: flex;
-    height: 100px;
     justify-content: center;
     align-items: center;
 }
 
 .li-navbar {
     list-style-type: none;
-    padding: 20px;
+    padding: 2px;
     color: white;
     margin: 5px;
     font-size: 30px;
