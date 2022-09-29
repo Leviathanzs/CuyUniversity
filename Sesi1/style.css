@@ -3,8 +3,6 @@
     margin: 0;
 }
 
-.container {}
-
 .container-navbar {
     background-color: crimson;
     width: 100%;
@@ -23,6 +21,10 @@
     color: white;
     margin: 5px;
     font-size: 30px;
+}
+
+#biodata {
+    background: red;
 }
 
 .li-navbar:hover {
